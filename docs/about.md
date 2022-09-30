@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: About Lunacy
-description: Basic information about Lunacy
+title: AI Smart Upscaler
+description: Use AI to enhance your images
 icon: 'lunacy'
 
 # Micro navigation
@@ -20,13 +20,16 @@ page_nav:
 ---
 
 
-## What is Lunacy
+## What is Smart Upscaler for?
 
-Lunacy is a next-gen vector graphic software for UI, UX, and web design. It has everything you are used to in other similar apps and goes beyond. Created by designers for designers to focus on the workflow and minimize distractions. No more wasting time surfing the internet for graphics or switching apps to remove backgrounds, or thinking placeholder texts. Lunacy has it all and even more. Faster than Figma, smarter than Sketch!
+AI Smart Upscaler is a next-gen tool aimed at improving any kind of images you might have. With it you can better preserve your family's memories by processing archive photos; make the most out of the blurry pictures you snapped in haste; or make a cool, but low-res wallpaper you found on the Internet fit any screen you have. You name it.
 
-## 100% free
-
-Lunacy is absolutely free for personal and commercial use.
+## Uploading
+Uploading images to Smart Upscaler is easy. You can either pick one through the file explorer of your PC or drag and drop it onto the uploading area.
+Our tool also supports batch uploads through multiple selection. On Windows 10 you can do that in several ways:
+* Holding down Ctrl and clicking on each item you want to upload
+* Select files using click and drag box while holding down left mouse button.
+* Click on the first file, hold down Shift and click on the last one, then release the button.
 
 ## Cross-platform app
 
