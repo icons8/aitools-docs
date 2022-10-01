@@ -35,10 +35,17 @@ Upscaler also supports batch uploads through multiple selection. On Windows 10 y
 
 Smart Upscaler also supports uploading images from clipboard, to do that just press <img align="center" height="50" src="/public/ctrlbut.png"> **+** <img align="center" height="47" src="/public/vkey.png"> while Upscaler is open.
 
-## Cross-platform app
+## Actions
 
-Lunacy runs on Windows, macOS, and Linux.
+When an image is uploaded to the Smart Upscaler and has finished processing, you will see several controls for each image.
 
+<p align="center">
+  <img width="900" src="/public/Result1.png">
+</p>
+
+* Clicking Enlarge will make your image twice as bigger each time you use it (4x, 8x, 16x, etc.) until it reaches the maximum of **7680 x 5671**.
+* Hovering your mouse cursor over the picture will enable magnifying mode, letting you to look at the details more closely and compare results.
+* Delete button deletes the image from the dashboard, but it will still be available. More on this in the [Privacy](https://github.com/icons8/aitools-docs/blob/main/docs/Upscaler.md#privacy) section.
 ## Real-time collaboration
 
 Users working on different platforms can collaborate over the same design in real-time.
