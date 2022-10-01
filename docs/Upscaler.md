@@ -28,7 +28,7 @@ AI Smart Upscaler is a next-gen tool aimed at improving any kind of images you m
 Uploading images to Smart Upscaler is easy. Just keep in mind the file requirements: our tool accepts **.png** and **.jpg** up to **5 Mb** in filesize.
 
 To upload a picture, you can either pick one through your system's file explorer or drag and drop it onto the uploading area.
-Upscaler also supports batch uploads through multiple selection. On Windows 10 you can do that in several ways:
+Upscaler also supports batch uploads through multiple selection. On Windows you can do that in several ways:
 * Hold down <img align="center" height="50" src="/public/ctrlbut.png"> and click on each item you want to upload.
 * Select files using selection box while holding down <img align="center" height="40" src="/public/leftclick.png">
 * Click on the first file, hold down <img align="center" height="60" src="/public/shiftbut.png"> and click on the last one, then release the button.
