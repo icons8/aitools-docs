@@ -47,7 +47,7 @@ When an image is uploaded to the Smart Upscaler and has finished processing, you
 * Hovering your mouse cursor over the picture will enable magnifying mode, letting you to look at the details more closely and compare results.
 * Delete button deletes the image from the dashboard, but it will still be available. More on this in the [Privacy](https://github.com/icons8/aitools-docs/blob/main/docs/Upscaler.md#privacy) section.
 
-Controls for batch uploads are virtually the same, except you can both upscale and download the whole collection at once, or do that with individual images within the batch.
+Controls for batch uploads are virtually the same, except you can both upscale and download the whole collection at once or do that with individual images within the batch.
 
 <p align="center">
   <img width="900" src="/public/Result2.png">
