@@ -25,11 +25,15 @@ page_nav:
 AI Smart Upscaler is a next-gen tool aimed at improving any kind of images you might have. With it you can better preserve your family's memories by processing archive photos; make the most out of the blurry pictures you snapped in haste; or make a cool, but low-res wallpaper you found on the Internet fit any screen you have. You name it.
 
 ## Uploading
-Uploading images to Smart Upscaler is easy. You can either pick one through your system's file explorer or drag and drop it onto the uploading area.
-Our tool also supports batch uploads through multiple selection. On Windows 10 you can do that in several ways:
+Uploading images to Smart Upscaler is easy. Just keep in mind the file requirements: our tool accepts **.png** and **.jpg** up to **5 Mb** in filesize.
+
+To upload a picture, you can either pick one through your system's file explorer or drag and drop it onto the uploading area.
+Upscaler also supports batch uploads through multiple selection. On Windows 10 you can do that in several ways:
 * Hold down <img align="center" height="50" src="/public/ctrlbut.png"> and click on each item you want to upload.
 * Select files using selection box while holding down <img align="center" height="40" src="/public/leftclick.png">
 * Click on the first file, hold down <img align="center" height="60" src="/public/shiftbut.png"> and click on the last one, then release the button.
+
+Smart Upscaler also supports uploading images from clipboard, to do that just press <img align="center" height="50" src="/public/ctrlbut.png"> **+** <img align="center" height="47" src="/public/vkey.png"> while Upscaler is open.
 
 ## Cross-platform app
 
