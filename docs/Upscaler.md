@@ -53,6 +53,7 @@ Lunacy is not demanding on hardware and runs smoothly even on moderate laptops.
 ## Privacy
 
 What our users upload, obviously, can't be seen by others, but for troubleshooting purposes we may ask your permission to access your uploads. You have the right to decline our request, but then we unfortunately wouldn't be able to help you in case you face any issues while using Upscaler.
+
 Images uploaded to Smart Upscaler can be deleted by you right inside the tool, but they will be able to be accessed with a direct link for the next 60 days. After two months pass, the images get deleted permanently.
 
 
