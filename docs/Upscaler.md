@@ -37,7 +37,7 @@ Smart Upscaler also supports uploading images from clipboard, to do that just pr
 
 ## Actions
 
-When an image is uploaded to the Smart Upscaler and has finished processing, you will see several controls for each image.
+After an image has been uploaded to the Smart Upscaler and has finished processing, you will see several controls for each image.
 
 <p align="center">
   <img width="900" src="/public/Result1.png">
@@ -53,9 +53,16 @@ Controls for batch uploads are virtually the same, except you can both upscale a
   <img width="900" src="/public/Result2.png">
 </p>
 
-## Real-time collaboration
+## FAQ and common cases
 
-Users working on different platforms can collaborate over the same design in real-time.
+Q: Upscaler doesn't enhance any faces on my photos.
+A: This can happen if resolution of the initial photo is already decent. Face enhancement should engage if you make such images smaller and reupload them.
+
+Q: I have uploaded images, but they've been stuck in the queue for several minutes.
+A: Processing heavily depends on the number of images, their initial size and resolution as well as server load. Maybe you got lucky and visited Upscaler during the usercount peak! We recommend waiting, but if you believe they truly got lost, please contact our support.
+
+Q: Is there a limit for batch uploads?
+A: No, but one should keep in mind format and size limitations Upscaler has and also the fact, that the more images you upload, the bigger the performance hit will be. For really large uploads please consider getting an API subscription.
 
 ## Low system requirements
 
