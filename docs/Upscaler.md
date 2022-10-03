@@ -27,7 +27,7 @@ page_nav:
 
 Icons8 Smart Upscaler is a tool that automatically increases image resolution without losing quality using the AI. For example, Upscaler will be helpful when you want to:
 * Improve old photos from your family's archives.
-* Make the blurry pictures you snapped in haste sharper.
+* Reduce noise on photos taken in low-light conditions.
 * Enhance low resolution downloaded from internet.
 
 ## Uploading
