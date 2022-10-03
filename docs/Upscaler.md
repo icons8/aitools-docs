@@ -25,22 +25,33 @@ page_nav:
 
 ## What is Smart Upscaler for?
 
-AI Smart Upscaler is a next-gen tool aimed at improving any kind of images you might have. With it you can better preserve your family's memories by processing archive photos; make the most out of the blurry pictures you snapped in haste; or make a cool, but low-res wallpaper you found on the Internet fit any screen you have. You name it.
+Icons8 Smart Upscaler is a tool that automatically increases image resolution without losing quality using the AI. For example, Upscaler will be helpful when you want to:
+* Improve old photos from your family's archives.
+* Make the blurry pictures you snapped in haste sharper.
+* Enhance low resolution downloaded from internet.
 
 ## Uploading
-Uploading images to Smart Upscaler is easy. Just keep in mind the file requirements: our tool accepts **.png** and **.jpg** up to **5 Mb** in filesize.
 
-To upload a picture, you can either pick one through your system's file explorer or drag and drop it onto the uploading area.
+To upload a picture to Smart Upscaler you can either pick one through your system's file explorer or drag and drop it onto the uploading area.
+
+<p align="center">
+  <img width="700" src="/public/uploadingarea.png">
+</p>
+
+
+
 Upscaler also supports batch uploads through multiple selection. On Windows you can do that in several ways:
 * Hold down <img align="center" height="50" src="/public/ctrlbut.png"> and click on each item you want to upload.
-* Select files using selection box while holding down <img align="center" height="40" src="/public/leftclick.png">
+* Select files using selection box while holding down left mouse button.
 * Click on the first file, hold down <img align="center" height="60" src="/public/shiftbut.png"> and click on the last one, then release the button.
 
 Smart Upscaler also supports uploading images from clipboard, to do that just press <img align="center" height="50" src="/public/ctrlbut.png"> **+** <img align="center" height="47" src="/public/vkey.png"> while Upscaler is open.
 
+:information_source: Please keep in mind the file requirements: our tool accepts **.png** and **.jpg** up to **5 Mb** in filesize.
+
 ## Actions
 
-After an image has been uploaded to the Smart Upscaler and has finished processing, you will see several controls for each image.
+After an image has been uploaded to the Smart Upscaler, you will see several controls for each image.
 
 <p align="center">
   <img width="900" src="/public/Result1.png">
@@ -62,7 +73,7 @@ Controls for batch uploads are virtually the same, except you can both upscale a
 **A:** This can happen if resolution of the initial photo is already decent. Face enhancement should engage if you make such images smaller and reupload them.
 
 **Q:** I have uploaded images, but they've been stuck in the queue for several minutes. <br>
-**A:** Processing heavily depends on the number of images, their initial size and resolution as well as server load. Maybe you got lucky and visited Upscaler during the usercount peak! We recommend waiting, but if you believe they truly got lost, please contact our support.
+**A:** Processing heavily depends on the number of images, their initial size and resolution as well as server load. We recommend waiting, but if you believe they truly got lost, please contact our support.
 
 **Q:** Is there a limit for batch uploads? <br>
 **A:** No, but one should keep in mind format and size limitations Upscaler has and also the fact, that the more images you upload, the bigger the performance hit will be. For really large uploads please consider getting an API subscription.
@@ -80,8 +91,8 @@ Lunacy is not demanding on hardware and runs smoothly even on moderate laptops.
 
 ## Privacy
 
-What our users upload, obviously, can't be seen by others, but for troubleshooting purposes we may ask your permission to access your uploads. You have the right to decline our request, but then we unfortunately wouldn't be able to help you in case you face any issues while using Upscaler.
+What you upload, obviously, can't be seen by others, but for troubleshooting purposes we may ask your permission to access your uploads. You have the right to decline our request, but then we wouldn't be able to help you in case you face any issues while using Upscaler.
 
-Images uploaded to Smart Upscaler can be deleted by you right inside the tool, but they will be able to be accessed with a direct link for the next 60 days. After two months pass, the images get deleted permanently.
+You can delete images uploaded to Smart Upscler right inside the tool, but you will be able to access them with a direct link for the next 60 days. After two months pass, the images get deleted permanently.
 
 
