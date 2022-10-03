@@ -71,11 +71,11 @@ Controls for batch uploads are virtually the same, except you can both upscale a
 **A:** If you didn't have an Icons8 account while buying the pack, the system will automatically create one with the billing email used during checkout and offer you to set up a password. If you missed that window, then you will have to request password change for the account.
 
 
-## Low system requirements
+## Placeholder
 
 Lunacy is not demanding on hardware and runs smoothly even on moderate laptops. 
 
-## Built-in graphics
+## Placeholder
 
 
 ## Privacy
