@@ -41,8 +41,8 @@ To upload a picture to Smart Upscaler you can either pick one through your syste
 
 
 Upscaler also supports batch uploads through multiple selection. On Windows you can do that in several ways:
-* Hold down <img align="center" height="50" src="/public/ctrlbut.png"> and click on each item you want to upload.
 * Select files using selection box while holding down left mouse button.
+* Hold down <img align="center" height="50" src="/public/ctrlbut.png"> and click on each item you want to upload.
 * Click on the first file, hold down <img align="center" height="60" src="/public/shiftbut.png"> and click on the last one, then release the button.
 
 Smart Upscaler also supports uploading images from clipboard, to do that just press <img align="center" height="50" src="/public/ctrlbut.png"> **+** <img align="center" height="47" src="/public/vkey.png"> while Upscaler is open.
