@@ -19,6 +19,9 @@ page_nav:
         url: '/sysreq'
 ---
 
+<p align="center">
+  <img width="100" src="/public/logo.png">
+</p>
 
 ## What is Smart Upscaler for?
 
