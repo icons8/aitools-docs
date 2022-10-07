@@ -35,26 +35,26 @@ Icons8 Background Remover is a tool that automatically removes background from y
 To upload a picture to Background Remover you can either pick one through your system's file explorer or drag and drop it onto the uploading area.
 
 <p align="center">
-  <img width="700" src="/public/uploadingarea.png">
+  <img width="700" src="/public/uploadingareatwo.png">
 </p>
 
 
 
-Upscaler also supports batch uploads through multiple selection. On Windows you can do that in several ways:
+BGRemover also supports batch uploads through multiple selection. On Windows you can do that in several ways:
 * Select files using selection box while holding down left mouse button.
 * Hold down <img align="center" height="50" src="/public/ctrlbut.png"> and click on each item you want to upload.
 * Click on the first file, hold down <img align="center" height="60" src="/public/shiftbut.png"> and click on the last one, then release the button.
 
-Smart Upscaler also supports uploading images from clipboard, to do that just press <img align="center" height="50" src="/public/ctrlbut.png"> **+** <img align="center" height="47" src="/public/vkey.png"> while Upscaler is open.
+BGRemover also supports uploading images from clipboard, to do that just press <img align="center" height="50" src="/public/ctrlbut.png"> **+** <img align="center" height="47" src="/public/vkey.png"> while Upscaler is open.
 
 :information_source: Please keep in mind the file requirements: our tool accepts **.png** and **.jpg** up to **5 Mb** in filesize.
 
 ## Actions
 
-After an image has been uploaded to the Smart Upscaler, you will see several controls for each image.
+After an image has been uploaded to the Background Remover, you will see several controls for each image.
 
 <p align="center">
-  <img width="900" src="/public/Result1.png">
+  <img width="900" src="/public/result4.png">
 </p>
 
 * Clicking Enlarge will make your image twice as bigger each time you use it (4x, 8x, 16x, etc.) until it reaches the maximum of **7680 x 5671**.
