@@ -57,11 +57,13 @@ After an image has been uploaded to the Background Remover, you will see several
   <img width="900" src="/public/result4.png">
 </p>
 
-* Clicking Enlarge will make your image twice as bigger each time you use it (4x, 8x, 16x, etc.) until it reaches the maximum of **7680 x 5671**.
-* Hovering your mouse cursor over the picture will enable magnifying mode, letting you to look at the details more closely and compare results.
-* Delete button deletes the image from the dashboard, but it will still be available. More on this in the [Privacy](https://github.com/icons8/aitools-docs/blob/main/docs/Upscaler.md#privacy) section.
+* <img align="center" height="50" src="/public/bgbut.png"> will let you pick a background color out of a preset palette or input your own color code. This option also lets you choose a background from our Moose photo-library and upload your own backgrounds.
+* <img align="center" height="50" src="/public/corrbut.png"> enables retouching mode, allowing you to erase areas the Remover missed or restore parts it mistakenly deleted.
+* <img align="center" height="50" src="/public/helpbut.png"> is a paid option which lets you get professionally retouched images for cases where an AI didn't achieve desirable results.
+* <img align="center" height="50" src="/public/upscalebut.png"> will upload the image to [AI Smart Upscaler](https://icons8.com/upscaler)
+* <img align="center" height="50" src="/public/facebut.png"> will upload the image to [AI Face Swapper](https://icons8.com/swapper)
 
-Controls for batch uploads are virtually the same, except you can both upscale and download the whole collection at once or do that with individual images within the batch.
+Controls for batch uploads are virtually the same, these optional are available if you click on individual images within the batch.
 
 <p align="center">
   <img width="900" src="/public/Result2.png">
