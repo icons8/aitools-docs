@@ -69,21 +69,6 @@ Controls for batch uploads are virtually the same, these optional are available 
   <img width="900" src="/public/Result2new.png">
 </p>
 
-## FAQ and common cases
-
-**Q:** Upscaler doesn't enhance any faces on my photos. <br>
-**A:** This can happen if resolution of the initial photo is already decent. Face enhancement should engage if you make such images smaller and reupload them.
-
-**Q:** I have uploaded images, but they've been stuck in the queue for several minutes. <br>
-**A:** Processing heavily depends on the number of images, their initial size and resolution as well as server load. We recommend waiting, but if you believe they truly got lost, please contact our support.
-
-**Q:** Is there a limit for batch uploads? <br>
-**A:** No, but one should keep in mind format and size limitations Upscaler has and also the fact, that the more images you upload, the bigger the performance hit will be. For really large uploads please consider getting an API subscription.
-
-**Q:** I bought a prepaid pack, but didn't receive my order. <br>
-**A:** If you didn't have an Icons8 account while buying the pack, the system will automatically create one with the billing email used during checkout and offer you to set up a password. If you missed that window, then you will have to request password change for the account.
-
-
 ## Placeholder
 
 Lunacy is not demanding on hardware and runs smoothly even on moderate laptops. 
@@ -96,3 +81,18 @@ Lunacy is not demanding on hardware and runs smoothly even on moderate laptops.
 What you upload, obviously, can't be seen by others, but for troubleshooting purposes we may ask your permission to access your uploads. You have the right to decline our request, but then we wouldn't be able to help you in case you face any issues while using Upscaler.
 
 You can delete images uploaded to Smart Upscler right inside the tool, but you will be able to access them with a direct link for the next 60 days. After two months pass, the images get deleted permanently.
+
+## FAQ and common cases
+
+**Q:** Background remover didn't remove some parts of the image or removed too much. <br>
+**A:** No algorithm is perfect. You can erase extra parts and restore missing ones by using correction tool or request professional retouching from us.
+
+**Q:** I have uploaded images, but they've been stuck in the queue for several minutes. <br>
+**A:** Processing heavily depends on the number of images, their initial size and resolution as well as server load. We recommend waiting, but if you believe they truly got lost, please contact our support.
+
+**Q:** Is there a limit for batch uploads? <br>
+**A:** No, but one should keep in mind format and size limitations Upscaler has and also the fact, that the more images you upload, the bigger the performance hit will be. For really large uploads please consider getting an API subscription.
+
+**Q:** I bought a prepaid pack, but didn't receive my order. <br>
+**A:** If you didn't have an Icons8 account while buying the pack, the system will automatically create one with the billing email used during checkout and offer you to set up a password. If you missed that window, then you will have to request password change for the account.
+
