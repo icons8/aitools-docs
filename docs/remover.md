@@ -66,7 +66,7 @@ After an image has been uploaded to the Background Remover, you will see several
 Controls for batch uploads are virtually the same, these optional are available if you click on individual images within the batch.
 
 <p align="center">
-  <img width="900" src="/public/Result2.png">
+  <img width="900" src="/public/Result2new.png">
 </p>
 
 ## FAQ and common cases
