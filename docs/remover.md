@@ -27,7 +27,7 @@ page_nav:
 
 Icons8 Background Remover is a tool that automatically removes background from your images using AI. For example, BGRemover will be helpful when you want to:
 * Create clean showcase photos of your product for your online store.
-* Add a basic background to a photo of yours to make it more professional.
+* Add a basic background color or a full backdrop to a photo of yours to make it more professional.
 * Separate a text from its background.
 
 ## Uploading
