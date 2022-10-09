@@ -92,6 +92,6 @@ You can delete any images uploaded to Smart Upscaler right inside the tool, but 
 **A:** No, but one should keep in mind format and size limitations Upscaler has and also the fact, that the more images you upload, the bigger the performance hit will be. For really large uploads please consider getting an API subscription.
 
 **Q:** I bought a prepaid pack, but didn't receive my order. <br>
-**A:** If you didn't have an Icons8 account while buying the pack, the system will automatically create one with the billing email used during checkout and offer you to set up a password. If you missed that window, then you will have to request password change for the account.
+**A:** If you didn't have an Icons8 account while buying the pack, the system will automatically create one with the billing email used during checkout and offer you to set up a password. If you missed that window, then you will have to request password change for the account. If you are sure you did everything correctly, please contact our support team.
 
 
