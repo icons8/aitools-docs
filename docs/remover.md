@@ -66,8 +66,10 @@ After an image has been uploaded to the Background Remover, you will see several
 * <img align="center" height="50" src="/public/helpbut.png"> is a paid option which lets you get professionally retouched images for cases where an AI didn't achieve desirable results.
 * <img align="center" height="50" src="/public/upscalebut.png"> will upload the image to [AI Smart Upscaler](https://icons8.com/upscaler)
 * <img align="center" height="50" src="/public/facebut.png"> will upload the image to [AI Face Swapper](https://icons8.com/swapper)
+* <img align="center" height="50" src="/public/bgdown1.png"> downloads the result to your device.
+* <img align="center" height="50" src="/public/bgshare1.png"> lets you copy the link to the result, post it on Facebook and Twitter or send it via WhatsApp and email.
 
-Controls for batch uploads are virtually the same, these optional are available if you click on individual images within the batch.
+Controls for batch uploads are virtually the same, the options above are available if you click on individual images within the batch.
 
 <p align="center">
   <img width="900" src="/public/bgbatch.png">
