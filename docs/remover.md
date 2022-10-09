@@ -25,7 +25,7 @@ page_nav:
 
 ## What is Background Remover for?
 
-Icons8 Background Remover is a tool that automatically removes background from your images using AI. For example, Upscaler will be helpful when you want to:
+Icons8 Background Remover is a tool that automatically removes background from your images using AI. For example, BGRemover will be helpful when you want to:
 * Create clean showcase photos of your product for your online store.
 * Add a basic background to a photo of yours to make it more professional.
 * Separate a text from its background.
@@ -45,7 +45,7 @@ BGRemover also supports batch uploads through multiple selection. On Windows you
 * Hold down <img align="center" height="50" src="/public/ctrlbut.png"> and click on each item you want to upload.
 * Click on the first file, hold down <img align="center" height="60" src="/public/shiftbut.png"> and click on the last one, then release the button.
 
-BGRemover also supports uploading images from clipboard, to do that just press <img align="center" height="50" src="/public/ctrlbut.png"> **+** <img align="center" height="47" src="/public/vkey.png"> while Upscaler is open.
+BGRemover also supports uploading images from clipboard, to do that just press <img align="center" height="50" src="/public/ctrlbut.png"> **+** <img align="center" height="47" src="/public/vkey.png"> while the tool is open.
 
 :information_source: Please keep in mind the file requirements: our tool accepts **.png** and **.jpg** up to **5 Mb** in filesize.
 
@@ -64,8 +64,8 @@ After an image has been uploaded to the Background Remover, you will see several
 
 * <img align="center" height="50" src="/public/corrbut.png"> enables retouching mode, allowing you to erase areas the Remover missed or restore parts it mistakenly deleted.
 * <img align="center" height="50" src="/public/helpbut.png"> is a paid option which lets you get professionally retouched images for cases where an AI didn't achieve desirable results.
-* <img align="center" height="50" src="/public/upscalebut.png"> will upload the image to [AI Smart Upscaler](https://icons8.com/upscaler)
-* <img align="center" height="50" src="/public/facebut.png"> will upload the image to [AI Face Swapper](https://icons8.com/swapper)
+* <img align="center" height="50" src="/public/upscalebut.png"> will upload the image to [AI Smart Upscaler](https://icons8.com/upscaler).
+* <img align="center" height="50" src="/public/facebut.png"> will upload the image to [AI Face Swapper](https://icons8.com/swapper). This option becomes appears if the tool detects a face on the image.
 * <img align="center" height="50" src="/public/bgdown1.png"> downloads the result to your device.
 * <img align="center" height="50" src="/public/bgshare1.png"> lets you copy the link to the result, post it on Facebook and Twitter or send it via WhatsApp and email.
 
@@ -84,7 +84,7 @@ Lunacy is not demanding on hardware and runs smoothly even on moderate laptops.
 
 ## Privacy
 
-What you upload, obviously, can't be seen by others, but for troubleshooting purposes we may ask your permission to access your uploads. You have the right to decline our request, but then we wouldn't be able to help you in case you face any issues while using Upscaler.
+What you upload, obviously, can't be seen by others, but for troubleshooting purposes we may ask your permission to access your uploads. You have the right to decline our request, but then we wouldn't be able to help you in case you face any issues while using Background Remover.
 
 You can delete images uploaded to Smart Upscler right inside the tool, but you will be able to access them with a direct link for the next 60 days. After two months pass, the images get deleted permanently.
 
