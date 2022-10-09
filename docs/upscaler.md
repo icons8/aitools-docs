@@ -59,7 +59,7 @@ After an image has been uploaded to the Smart Upscaler, you will see several con
 
 * Clicking Enlarge will make your image twice as bigger each time you use it (4x, 8x, 16x, etc.) until it reaches the maximum of **7680 x 5671**.
 * Hovering your mouse cursor over the picture will enable magnifying mode, letting you to look at the details more closely and compare results.
-* Delete button deletes the image from the dashboard, but it will still be available. More on this in the [Privacy](https://github.com/icons8/aitools-docs/blob/main/docs/Upscaler.md#privacy) section.
+* Delete button at the top deletes the image from the dashboard, but you will be able to access it with a direct link within the next 60 days.
 
 Controls for batch uploads are virtually the same, except you can both upscale and download the whole collection at once or do that with individual images within the batch.
 
@@ -76,9 +76,9 @@ Lunacy is not demanding on hardware and runs smoothly even on moderate laptops.
 
 ## Privacy
 
-What you upload, obviously, can't be seen by others, but for troubleshooting purposes we may ask your permission to access your uploads. You have the right to decline our request, but then we wouldn't be able to help you in case you face any issues while using Upscaler.
+What you upload, obviously, can't be seen by others, but for troubleshooting purposes we may ask your permission to access your uploads to help you in case you face any issues while using Upscaler.
 
-You can delete images uploaded to Smart Upscler right inside the tool, but you will be able to access them with a direct link for the next 60 days. After two months pass, the images get deleted permanently.
+You can delete any images uploaded to Smart Upscaler right inside the tool, but you will be able to access them with a direct link for the next 60 days. After two months pass, the images get deleted permanently.
 
 ## FAQ and common cases
 
