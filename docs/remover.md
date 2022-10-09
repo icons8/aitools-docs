@@ -70,7 +70,7 @@ After an image has been uploaded to the Background Remover, you will see several
 Controls for batch uploads are virtually the same, these optional are available if you click on individual images within the batch.
 
 <p align="center">
-  <img width="900" src="/public/Result2new.png">
+  <img width="900" src="/public/bgbatch.png">
 </p>
 
 ## Placeholder
@@ -95,8 +95,8 @@ You can delete images uploaded to Smart Upscler right inside the tool, but you w
 **A:** Processing heavily depends on the number of images, their initial size and resolution as well as server load. We recommend waiting, but if you believe they truly got lost, please contact our support.
 
 **Q:** Is there a limit for batch uploads? <br>
-**A:** No, but one should keep in mind format and size limitations Upscaler has and also the fact, that the more images you upload, the bigger the performance hit will be. For really large uploads please consider getting an API subscription.
+**A:** No, but one should keep in mind format and size limitations Background Remover has and also the fact, that the more images you upload, the bigger the performance hit will be. For really large uploads please consider getting an API subscription.
 
 **Q:** I bought a prepaid pack, but didn't receive my order. <br>
-**A:** If you didn't have an Icons8 account while buying the pack, the system will automatically create one with the billing email used during checkout and offer you to set up a password. If you missed that window, then you will have to request password change for the account.
+**A:** If you didn't have an Icons8 account while buying the pack, the system will automatically create one with the billing email used during checkout and offer you to set up a password. If you missed that window, then you will have to request password change for the account. If you are sure you did everything correctly, please contact our support team.
 
