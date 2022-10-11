@@ -25,10 +25,11 @@ page_nav:
 
 ## What is Smart Upscaler for?
 
-Icons8 Smart Upscaler is a tool that automatically increases image resolution without losing quality using the AI. For example, Upscaler will be helpful when you want to:
-* Improve old photos from your family's archives.
-* Reduce noise on photos taken in low-light conditions.
-* Enhance low resolution downloaded from internet.
+Icons8 Smart Upscaler is an AI tool that automatically increases image resolution without losing quality. For example, Upscaler will be helpful when you want to:
+* reduce noise on photos taken in low-light conditions;
+* enhance low resolution downloaded from internet;
+* improve old photos from your family's archives.
+
 
 ## Uploading
 
@@ -40,10 +41,10 @@ To upload a picture to Smart Upscaler you can either pick one through your syste
 
 
 
-Upscaler also supports batch uploads through multiple selection. On Windows you can do that in several ways:
-* Select files using selection box while holding down left mouse button.
+Upscaler also supports batch uploads through multiple selection. On Windows, you can do that in several ways:
+* Select files using the selection box while holding down the left mouse button.
 * Hold down <img align="center" height="50" src="/public/ctrlbut.png"> and click on each item you want to upload.
-* Click on the first file, hold down <img align="center" height="60" src="/public/shiftbut.png"> and click on the last one, then release the button.
+* Click on the first file, hold down <img align="center" height="60" src="/public/shiftbut.png"> and click on the last one.
 
 Smart Upscaler also supports uploading images from clipboard, to do that just press <img align="center" height="50" src="/public/ctrlbut.png"> **+** <img align="center" height="47" src="/public/vkey.png"> while Upscaler is open.
 
@@ -51,14 +52,14 @@ Smart Upscaler also supports uploading images from clipboard, to do that just pr
 
 ## Actions
 
-After an image has been uploaded to the Smart Upscaler, you will see several controls for each image.
+After uploading an image to the Smart Upscaler, you will see several controls for each image.
 
 <p align="center">
   <img width="900" src="/public/Result1.png">
 </p>
 
-* Clicking Enlarge will make your image twice as bigger each time you use it (4x, 8x, 16x, etc.) until it reaches the maximum of **7680 x 5671**.
-* Hovering your mouse cursor over the picture will enable magnifying mode, letting you to look at the details more closely and compare results.
+* Enlarge button will make your image twice as larger each time you use it (4x, 8x, 16x, etc.) until it reaches the maximum of **7680 x 5671**.
+* Hovering your mouse cursor over the picture will enable magnifying mode, letting you look at the details more closely and compare results.
 * Delete button at the top deletes the image from the dashboard, but you will be able to access it with a direct link within the next 60 days.
 
 Controls for batch uploads are virtually the same, except you can both upscale and download the whole collection at once or do that with individual images within the batch.
