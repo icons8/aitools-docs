@@ -50,7 +50,7 @@ Smart Upscaler also supports uploading images from clipboard, to do that just pr
 
 :information_source: Please keep in mind the file requirements: our tool accepts **.png** and **.jpg** up to **5 Mb** in filesize and less than 7680x7680px.
 
-## Actions
+## Upscaling
 
 After uploading an image to the Smart Upscaler, you will see several controls for each image.
 
@@ -77,22 +77,22 @@ Lunacy is not demanding on hardware and runs smoothly even on moderate laptops.
 
 ## Privacy
 
-What you upload, obviously, can't be seen by others, but for troubleshooting purposes we may ask your permission to access your uploads to help you in case you face any issues while using Upscaler.
+We store uploaded images securely, and other users are not able to see what you upload. 
 
-You can delete any images uploaded to Smart Upscaler right inside the tool, but you will be able to access them with a direct link for the next 60 days. After two months pass, the images get deleted permanently.
+You can delete any images uploaded to Smart Upscaler, but they will be available with a direct link for the next 60 days. After two months pass, the images get deleted permanently.
 
 ## FAQ and common cases
 
 **Q:** Upscaler doesn't enhance any faces on my photos. <br>
-**A:** This can happen if resolution of the initial photo is already decent. Face enhancement should engage if you make such images smaller and reupload them.
+**A:** This can happen if the resolution of the initial photo is already decent. Face enhancement should engage if you make such images smaller and re-upload them.
 
 **Q:** I have uploaded images, but they've been stuck in the queue for several minutes. <br>
-**A:** Processing heavily depends on the number of images, their initial size and resolution as well as server load. We recommend waiting, but if you believe they truly got lost, please contact our support.
+**A:** Processing heavily depends on the number of images, their initial size and resolution, as well as server load. We recommend waiting, but if you believe your images got lost in the queue, please contact our support.
 
 **Q:** Is there a limit for batch uploads? <br>
-**A:** No, but one should keep in mind format and size limitations Upscaler has and also the fact, that the more images you upload, the bigger the performance hit will be. For really large uploads please consider getting an API subscription.
+**A:** There are no limits for batch uploads, but you should keep in mind that the more images you upload, the bigger the performance hit will be. For really large uploads, please consider getting an API subscription.
 
 **Q:** I bought a prepaid pack, but didn't receive my order. <br>
-**A:** If you didn't have an Icons8 account while buying the pack, the system will automatically create one with the billing email used during checkout and offer you to set up a password. If you missed that window, then you will have to request password change for the account. If you are sure you did everything correctly, please contact our support team.
+**A:** If you didn't have an Icons8 account while buying the pack, the system will automatically create one with the billing email used during checkout and offer you to set up a password. If you missed that window,  you will have to request a password change for the account. If you are sure you did everything correctly, please contact our support team.
 
 
