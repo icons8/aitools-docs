@@ -25,7 +25,7 @@ page_nav:
 
 ## What is Smart Upscaler for?
 
-Icons8 Smart Upscaler is an AI tool that automatically increases image resolution without losing quality. For example, Upscaler will be helpful when you want to:
+Icons8 Smart Upscaler is an AI tool that automatically increases image resolution without losing quality. For example, it will be helpful when you want to:
 * reduce noise on photos taken in low-light conditions;
 * enhance low resolution downloaded from internet;
 * improve old photos from your family's archives.
@@ -41,7 +41,7 @@ To upload a picture to Smart Upscaler you can either pick one through your syste
 
 
 
-Upscaler also supports batch uploads through multiple selection. On Windows, you can do that in several ways:
+The tool supports batch uploads through multiple selection. On Windows, you can do that in several ways:
 * Select files using the selection box while holding down the left mouse button.
 * Hold down <img align="center" height="50" src="/public/ctrlbut.png"> and click on each item you want to upload.
 * Click on the first file, hold down <img align="center" height="60" src="/public/shiftbut.png"> and click on the last one.
