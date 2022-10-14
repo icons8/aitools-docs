@@ -72,7 +72,7 @@ After uploading an image to the Background Remover, you will see several control
 Controls for batch uploads are virtually the same, the options above are available if you click on individual images within the batch.
 
 <p align="center">
-  <img width="900" src="/public/bgbatch.png">
+  <img width="900" src="/public/bgbatch2.png">
 </p>
 
 ## Placeholder
