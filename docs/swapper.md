@@ -51,7 +51,7 @@ After uploading an image to Face Swapper, you will see several controls for each
 
 * <img align="center" height="50" src="/public/facebut1.png"> will let you pick a background color out of a preset palette or input your own color code. This option also lets you choose a background from our Moose photo library and upload your own backgrounds.
 <p align="center">
-  <img width="900" src="/public/exportraven.png">
+  <img width="700" src="/public/swapperexample1.png">
 </p>
 
 * <img align="center" height="50" src="/public/bodybut.png"> enables retouching mode, allowing you to erase areas the Remover missed or restore parts it mistakenly deleted.
