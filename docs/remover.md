@@ -59,7 +59,7 @@ After uploading an image to the Background Remover, you will see several control
 
 * <img align="center" height="50" src="/public/bgbut.png"> will let you pick a background color out of a preset palette or input your own color code. This option also lets you choose a background from our Moose photo library and upload your own backgrounds.
 <p align="center">
-  <img width="900" src="/public/exportraven.png">
+  <img width="900" src="/public/raven.png">
 </p>
 
 * <img align="center" height="50" src="/public/corrbut.png"> enables retouching mode, allowing you to erase areas the Remover missed or restore parts it mistakenly deleted.
