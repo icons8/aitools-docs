@@ -23,31 +23,23 @@ page_nav:
   <img width="100" src="/public/logo2.png">
 </p>
 
-## What is Background Remover for?
+## What is Face Swapper for?
 
-Icons8 Background Remover is a tool that automatically removes background from your images using artificial intelligence. For example, it will be helpful when you want to:
-* create clean showcase photos of your product for your online store;
-* add a basic background color or a full backdrop to a photo of yours to make it more professional;
-* separate a text from its background.
+Icons8 Face Swapper is a tool that lets you both combine and swap faces and bodies on photos using artificial intelligence. For example, you can use it for following purposes:
+* face swapping just for fun;
+* making your online identity less recognizable by combining your photos with generated appearances;
 
 ## Uploading
 
-To upload a picture to Background Remover you can either pick one through your system's file explorer or drag and drop it onto the uploading area.
+To upload a picture to Face Swapper you can either pick one through your system's file explorer or drag and drop it onto the uploading area.
 
 <p align="center">
   <img width="700" src="/public/uploadingareatwo.png">
 </p>
 
+The tool supports uploading images from clipboard, to do that just press <img align="center" height="50" src="/public/ctrlbut.png"> **+** <img align="center" height="47" src="/public/vkey.png"> while the tool is open.
 
-
-Background Remover supports batch uploads through multiple selection. On Windows, you can do that in several ways:
-* Select files using the selection box while holding down thr left mouse button.
-* Hold down <img align="center" height="50" src="/public/ctrlbut.png"> and click on each item you want to upload.
-* Click on the first file, hold down <img align="center" height="60" src="/public/shiftbut.png"> and click on the last one.
-
-The tool also supports uploading images from clipboard, to do that just press <img align="center" height="50" src="/public/ctrlbut.png"> **+** <img align="center" height="47" src="/public/vkey.png"> while the tool is open.
-
-:information_source: Please keep in mind the file requirements: our tool accepts **.png** and **.jpg** up to **5 Mb**.
+:information_source: Please keep in mind the file requirements: Face Swapper accepts **.png** and **.jpg** up to **5 Mb**.
 
 ## Background Removal
 
