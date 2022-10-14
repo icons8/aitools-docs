@@ -41,12 +41,12 @@ The tool supports uploading images from clipboard, to do that just press <img al
 
 :information_source: Please keep in mind the file requirements: Face Swapper accepts **.png** and **.jpg** up to **5 Mb**.
 
-## Background Removal
+## Swapping faces and bodies
 
-After uploading an image to the Background Remover, you will see several controls for each image.
+After uploading an image to Face Swapper, you will see several controls for each image.
 
 <p align="center">
-  <img width="900" src="/public/result4.png">
+  <img height="600" src="/public/fsexample.png">
 </p>
 
 * <img align="center" height="50" src="/public/bgbut.png"> will let you pick a background color out of a preset palette or input your own color code. This option also lets you choose a background from our Moose photo library and upload your own backgrounds.
