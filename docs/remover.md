@@ -35,7 +35,7 @@ Icons8 Background Remover is a tool that automatically removes background from y
 To upload a picture to Background Remover you can either pick one through your system's file explorer or drag and drop it onto the uploading area.
 
 <p align="center">
-  <img width="700" src="/public/uploadingareatwo.png">
+  <img width="700" src="/public/uploadarea.png">
 </p>
 
 
