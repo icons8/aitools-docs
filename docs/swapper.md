@@ -49,7 +49,7 @@ After uploading an image to Face Swapper, you will see several controls for each
   <img height="600" src="/public/fsexample.png">
 </p>
 
-* <img align="center" height="50" src="/public/facebut1.png"> will let you pick a background color out of a preset palette or input your own color code. This option also lets you choose a background from our Moose photo library and upload your own backgrounds.
+* <img align="center" height="50" src="/public/facebut1.png"> will let you pick either a similar AI-generated face, face of a model from our photostock, a meme template or a celebrity or upload your own photo. This option also lets you choose a background from our Moose photo library and upload your own backgrounds.
 <p align="center">
   <img width="700" src="/public/swapperexample3.png">
 </p>
