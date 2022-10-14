@@ -49,12 +49,17 @@ After uploading an image to Face Swapper, you will see several controls for each
   <img height="600" src="/public/fsexample.png">
 </p>
 
-* <img align="center" height="50" src="/public/bgbut.png"> will let you pick a background color out of a preset palette or input your own color code. This option also lets you choose a background from our Moose photo library and upload your own backgrounds.
+* <img align="center" height="50" src="/public/facebut1.png"> will let you pick a background color out of a preset palette or input your own color code. This option also lets you choose a background from our Moose photo library and upload your own backgrounds.
 <p align="center">
   <img width="900" src="/public/exportraven.png">
 </p>
 
-* <img align="center" height="50" src="/public/corrbut.png"> enables retouching mode, allowing you to erase areas the Remover missed or restore parts it mistakenly deleted.
+* <img align="center" height="50" src="/public/bodybut.png"> enables retouching mode, allowing you to erase areas the Remover missed or restore parts it mistakenly deleted.
+
+<p align="center">
+  <img width="900" src="/public/exportraven.png">
+</p>
+
 * <img align="center" height="50" src="/public/helpbut.png"> is a paid option which lets you get professionally retouched images for cases where an AI didn't achieve desirable results.
 * <img align="center" height="50" src="/public/upscalebut.png"> will upload the image to [AI Smart Upscaler](https://icons8.com/upscaler).
 * <img align="center" height="50" src="/public/facebut.png"> will upload the image to [AI Face Swapper](https://icons8.com/swapper). This option appears if the tool detects a face on the image.
