@@ -34,7 +34,7 @@ Icons8 Face Swapper is a tool that lets you both combine and swap faces and bodi
 To upload a picture to Face Swapper you can either pick one through your system's file explorer or drag and drop it onto the uploading area.
 
 <p align="center">
-  <img width="700" src="/public/uploadingareatwo.png">
+  <img width="700" src="/public/uploadarea.png">
 </p>
 
 The tool supports uploading images from clipboard, to do that just press <img align="center" height="50" src="/public/ctrlbut.png"> **+** <img align="center" height="47" src="/public/vkey.png"> while the tool is open.
@@ -51,7 +51,7 @@ After uploading an image to Face Swapper, you will see several controls for each
 
 * <img align="center" height="50" src="/public/facebut1.png"> will let you pick a background color out of a preset palette or input your own color code. This option also lets you choose a background from our Moose photo library and upload your own backgrounds.
 <p align="center">
-  <img width="700" src="/public/swapperexample1.png">
+  <img width="700" src="/public/swapperexample3.png">
 </p>
 
 * <img align="center" height="50" src="/public/bodybut.png"> enables retouching mode, allowing you to erase areas the Remover missed or restore parts it mistakenly deleted.
