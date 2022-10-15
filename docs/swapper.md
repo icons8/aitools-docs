@@ -43,7 +43,7 @@ The tool supports uploading images from clipboard, to do that just press <img al
 
 ## Swapping faces and bodies
 
-After uploading an image to Face Swapper, you will see several controls for each image.
+After uploading an image to Face Swapper, you will see several controls for each image. You can either use a photo of a single person or a group photo. The tool works with both.
 
 <p align="center">
   <img height="600" src="/public/fsexample.png">
