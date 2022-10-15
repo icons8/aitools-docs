@@ -60,8 +60,8 @@ After uploading an image to Face Swapper, you will see several controls for each
   <img width="700" src="/public/baby.png">
 </p>
 
-* <img align="center" height="60" src="/public/fsshare1.png"> lets you copy the link to the swapping result, post it on Facebook and Twitter or send it via WhatsApp and email.
-* <img align="center" height="60" src="/public/fsenhance1.png"> lets you upload the result into AI Smart Upscaler or AI Background Remover.
+* <img align="center" height="60" src="/public/fsshare3.png"> lets you copy the link to the swapping result, post it on Facebook and Twitter or send it via WhatsApp and email.
+* <img align="center" height="60" src="/public/fsenhance3.png"> lets you upload the result into AI Smart Upscaler or AI Background Remover.
 
 ## Placeholder
 
