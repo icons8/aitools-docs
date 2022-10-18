@@ -25,7 +25,7 @@ page_nav:
 
 ## What is Face Swapper for?
 
-Icons8 Face Swapper is a tool that lets you both combine and swap faces and bodies on photos using artificial intelligence. For example, you can use it for following purposes:
+Icons8 Face Swapper is a tool that lets you both combine and swap faces and bodies on photos using artificial intelligence. For example, you can use it fo:
 * face swapping just for fun;
 * making your online identity less recognizable by combining your photos with generated appearances;
 
