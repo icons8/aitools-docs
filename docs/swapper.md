@@ -20,7 +20,7 @@ page_nav:
 ---
 
 <p align="center">
-  <img width="100" src="/public/logo2.png">
+  <img width="100" src="/public/swapperlogo.png">
 </p>
 
 ## What is Face Swapper for?
