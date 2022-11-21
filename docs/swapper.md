@@ -25,9 +25,9 @@ page_nav:
 
 ## What is Face Swapper for?
 
-Icons8 Face Swapper is a tool that lets you both combine and swap faces and bodies on photos using artificial intelligence. For example, you can use it fo:
-* face swapping just for fun;
+Icons8 Face Swapper is a tool that lets you both combine and swap faces and bodies on photos using artificial intelligence. For example, you can use it for:
 * making your online identity less recognizable by combining your photos with generated appearances;
+* face swapping for fun.
 
 ## Uploading
 
@@ -49,7 +49,7 @@ After uploading an image to Face Swapper, you will see several controls for each
   <img height="600" src="/public/fsexample.png">
 </p>
 
-<img align="center" height="50" src="/public/facebut1.png"> will let you pick either a similar AI-generated face, face of a model from our photostock, a meme template or a celebrity or upload your own photo. This option also lets you choose a background from our Moose photo library and upload your own backgrounds.
+<img align="center" height="50" src="/public/facebut1.png"> will let you pick either a similar AI-generated face, face of a model from our photostock, a meme template, a celebrity, or upload your own photo. This option also lets you choose a background from our Moose photo library and upload your own backgrounds.
 <p align="center">
   <img width="700" src="/public/swapperexample3.png">
 </p>
@@ -85,7 +85,7 @@ You can delete any images uploaded to Background Remover, but they will be avail
 **A:** We recommend waiting, but if you believe your images got lost in the queue, please contact our support.
 
 **Q:** Is there a limit for batch uploads? <br>
-**A:** There are no limits for batch uploads, but you should keep in mind that the more images you upload, the bigger the performance hit will be. For really large uploads, please consider getting an API subscription.
+**A:** There are no limits for batch uploads, but the more images you upload, the bigger the performance hit will be. For really large uploads, please consider getting an API subscription.
 
 **Q:** I bought a prepaid pack, but didn't receive my order. <br>
 **A:** If you didn't have an Icons8 account while buying the pack, the system will automatically create one with the billing email used during checkout and offer you to set up a password. If you missed that window, you will have to request a password change for the account. If you still need help with your order, please contact our support team.
