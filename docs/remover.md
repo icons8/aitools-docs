@@ -91,7 +91,7 @@ You can delete any images uploaded to Background Remover, but they will be avail
 ## FAQ and common cases
 
 **Q:** Background remover didn't remove some parts of the image or removed too much. <br>
-**A:** You can erase extra parts and restore missing ones by using correction tool or request professional retouching from us.
+**A:** You can erase extra parts and restore missing ones by using the correction tool or request professional retouching from us.
 
 **Q:** I have uploaded images, but they've been stuck in the queue for several minutes. <br>
 **A:** We recommend waiting, but if you believe your images got lost in the queue, please contact our support.
