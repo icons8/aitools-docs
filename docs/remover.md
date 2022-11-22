@@ -27,7 +27,7 @@ page_nav:
 
 Icons8 Background Remover is a tool that automatically removes background from your images using artificial intelligence. For example, it will be helpful when you want to:
 * create clean showcase photos of your product for your online store;
-* add a basic background color or a full backdrop to a photo of yours to make it more professional;
+* add a basic background color or a full backdrop to a photo to make it look more professional;
 * separate a text from its background.
 
 ## Uploading
@@ -41,7 +41,7 @@ To upload a picture to Background Remover you can either pick one through your s
 
 
 Background Remover supports batch uploads through multiple selection. On Windows, you can do that in several ways:
-* Select files using the selection box while holding down thr left mouse button.
+* Select files using the selection box while holding down the left mouse button.
 * Hold down <img align="center" height="50" src="/public/ctrlbut.png"> and click on each item you want to upload.
 * Click on the first file, hold down <img align="center" height="60" src="/public/shiftbut.png"> and click on the last one.
 
@@ -63,9 +63,9 @@ After uploading an image to the Background Remover, you will see several control
 </p>
 
 * <img align="center" height="50" src="/public/corrbut.png"> enables retouching mode, allowing you to erase areas the Remover missed or restore parts it mistakenly deleted.
-* <img align="center" height="50" src="/public/helpbut.png"> is a paid option which lets you get professionally retouched images for cases where an AI didn't achieve desirable results.
-* <img align="center" height="50" src="/public/upscalebut.png"> will upload the image to [AI Smart Upscaler](https://icons8.com/upscaler).
-* <img align="center" height="50" src="/public/facebut.png"> will upload the image to [AI Face Swapper](https://icons8.com/swapper). This option appears if the tool detects a face on the image.
+* <img align="center" height="50" src="/public/helpbut.png"> is a paid option which lets you get professionally retouched images for cases where AI didn't achieve desirable results.
+* <img align="center" height="50" src="/public/upscalebut.png"> will upload an image to [AI Smart Upscaler](https://icons8.com/upscaler).
+* <img align="center" height="50" src="/public/facebut.png"> will upload an image to [AI Face Swapper](https://icons8.com/swapper). This option appears if the tool detects a face on the image.
 * <img align="center" height="50" src="/public/bgdown1.png"> downloads the result to your device.
 * <img align="center" height="50" src="/public/bgshare1.png"> lets you copy the link to the result, post it on Facebook and Twitter or send it via WhatsApp and email.
 
@@ -97,7 +97,7 @@ You can delete any images uploaded to Background Remover, but they will be avail
 **A:** We recommend waiting, but if you believe your images got lost in the queue, please contact our support.
 
 **Q:** Is there a limit for batch uploads? <br>
-**A:** There are no limits for batch uploads, but you should keep in mind that the more images you upload, the bigger the performance hit will be. For really large uploads, please consider getting an API subscription.
+**A:** There are no limits for batch uploads, but the more images you upload, the bigger the performance hit will be. For really large uploads, please consider getting an API subscription.
 
 **Q:** I bought a prepaid pack, but didn't receive my order. <br>
 **A:** If you didn't have an Icons8 account while buying the pack, the system will automatically create one with the billing email used during checkout and offer you to set up a password. If you missed that window, you will have to request a password change for the account. If you still need help with your order, please contact our support team.
