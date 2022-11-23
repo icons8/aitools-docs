@@ -13,10 +13,10 @@ icon: 'lunacy'
 micro_nav: false
 
 # Page navigation
-page_nav:
-    next:
-        content: System requirements
-        url: '/sysreq'
+# page_nav:
+#     next:
+#         content: System requirements
+#         url: '/sysreq'
 ---
 
 <p align="center">

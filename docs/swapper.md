@@ -5,18 +5,18 @@ keywords:
 comments: false
 
 # Hero section
-title: AI Background Remover
-description: Use AI to remove background from images
+title: AI Face Swapper
+description: Use AI to swap faces on images
 icon: 'lunacy'
 
 # Micro navigation
 micro_nav: false
 
 # Page navigation
-page_nav:
-    next:
-        content: System requirements
-        url: '/sysreq'
+# page_nav:
+    # next:
+    #     content: System requirements
+    #     url: '/sysreq'
 ---
 
 <p align="center">
