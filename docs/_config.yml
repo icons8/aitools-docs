@@ -2,10 +2,12 @@ doks:
     baseurl:
     color_theme: blue
     micro_nav:
-    - title: About
-      url: '/about'
-    - title: Demo
-      url: '/demo'
+    - title: Background Remover
+      url: '/remover'
+    - title: Face Swapper
+      url: '/swapper'
+    - title: Smart Upscaler
+      url: '/upscaler'
 
 
     header:
@@ -15,15 +17,24 @@ doks:
         nav:
             - item_name: Documentation
               item_url: /
-            - item_name: Request Features
-              item_url: https://lunatics.icons8.com/
+            - item_name: Background Remover
+              item_url: https://icons8.com/bgremover
               external_url: true
-            - item_name: Release Notes
-              item_url: /release-notes/
+            - item_name: Face Swapper
+              item_url: https://icons8.com/swapper
+              external_url: true
+            - item_name: Smart Upscaler
+              item_url: https://icons8.com/upscaler
+              external_url: true
+            - item_name: Icons
+              item_url: https://icons8.com/icons
+              external_url: true
+            - item_name: Blog
+              item_url: https://blog.icons8.com
+              external_url: true
             - item_name: Forum
-              item_url: https://community.icons8.com/c/lunacy/
+              item_url: https://community.icons8.com
               external_url: true
-
 
     google_analytics:
         tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
@@ -41,4 +52,7 @@ includes_dir: ./doks-theme/_includes
 exclude: [ 'README.md', 'CHANGELOG.md' ]
 permalink: /:title/
 
-# theme: jekyll-theme-cayman
+algolia:
+  application_id: E0SRZV1KDE
+  index_name: docs_aitools
+  search_only_api_key: 3c69946746f91017d9d59e85186f93ea
