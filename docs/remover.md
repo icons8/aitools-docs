@@ -75,13 +75,6 @@ Controls for batch uploads are virtually the same, the options above are availab
   <img width="900" src="/public/bgbatch2.png">
 </p>
 
-## Placeholder
-
-Lunacy is not demanding on hardware and runs smoothly even on moderate laptops. 
-
-## Placeholder
-
-
 ## Privacy
 
 We store uploaded images securely, and other users are not able to see what you upload. 
