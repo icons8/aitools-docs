@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: AI Smart Upscaler
-description: Use AI to enhance your images
+title:
+description:
 icon: 'lunacy'
 
 # Micro navigation
