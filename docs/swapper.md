@@ -63,13 +63,6 @@ After uploading an image to Face Swapper, you will see several controls for each
 * <img align="center" height="60" src="/public/fsshare3.png"> lets you copy the link to the swapping result, post it on Facebook and Twitter or send it via WhatsApp and email.
 * <img align="center" height="60" src="/public/fsenhance3.png"> lets you upload the result into AI Smart Upscaler or AI Background Remover.
 
-## Placeholder
-
-Lunacy is not demanding on hardware and runs smoothly even on moderate laptops. 
-
-## Placeholder
-
-
 ## Privacy
 
 We store uploaded images securely, and other users are not able to see what you upload. 
