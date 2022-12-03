@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: AI Background Remover
-description: Use AI to remove background from images
+title:
+description:
 icon: 'lunacy'
 
 # Micro navigation
