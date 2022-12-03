@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: AI Face Swapper
-description: Use AI to swap faces on images
+title:
+description:
 icon: 'lunacy'
 
 # Micro navigation
