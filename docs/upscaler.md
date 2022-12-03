@@ -68,13 +68,6 @@ Controls for batch uploads are virtually the same, except you can both upscale a
   <img width="900" src="/public/Result2.png">
 </p>
 
-## Placeholder
-
-Lunacy is not demanding on hardware and runs smoothly even on moderate laptops. 
-
-## Placeholder
-
-
 ## Privacy
 
 We store uploaded images securely, and other users are not able to see what you upload. 
