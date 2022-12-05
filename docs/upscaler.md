@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title:
+title: What is Smart Upscaler for?
 description:
 icon: 'lunacy'
 
@@ -19,7 +19,6 @@ micro_nav: false
 #         url: '/sysreq'
 ---
 
-## What is Smart Upscaler for?
 
 Icons8 Smart Upscaler is an AI tool that automatically increases image resolution without losing quality. For example, it will be helpful when you want to:
 * reduce noise on photos taken in low-light conditions;
