@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: What is Smart Upscaler?
-description: Welcome to the help page for Icons8 Figma Plugins Icons8 — icons, illustrations, photos, Material Design Icons and Icons8 Background Remover. All three of those plugins will broaden your toolkit, speed up your workflow and generally make your Figma experience smoother. Let’s dive right in!
+description:
 icon: 'lunacy'
 
 # Micro navigation
