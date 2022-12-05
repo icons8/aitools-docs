@@ -14,10 +14,6 @@ micro_nav: false
 #         url: '/sysreq'
 ---
 
-<p align="center">
-  <img width="100" src="/public/logo2.png">
-</p>
-
 ## What is Background Remover for?
 
 Icons8 Background Remover is a tool that automatically removes background from your images using artificial intelligence. For example, it will be helpful when you want to:
