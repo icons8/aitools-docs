@@ -6,7 +6,6 @@ comments: false
 
 # Hero section
 title: What is Face Swapper for?
-description:
 icon: 'lunacy'
 
 # Micro navigation
