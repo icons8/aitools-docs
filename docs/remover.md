@@ -4,11 +4,6 @@ layout: default
 keywords:
 comments: false
 
-# Hero section
-title:
-description:
-icon: 'lunacy'
-
 # Micro navigation
 micro_nav: false
 
