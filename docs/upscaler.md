@@ -18,8 +18,6 @@ micro_nav: false
 #         content: System requirements
 #         url: '/sysreq'
 ---
-
-
 Icons8 Smart Upscaler is an AI tool that automatically increases image resolution without losing quality. For example, it will be helpful when you want to:
 * reduce noise on photos taken in low-light conditions;
 * enhance low resolution downloaded from internet;
