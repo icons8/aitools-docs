@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: What is Background Remover for?
+title: What is Background Remover?
 description:
 icon: 'lunacy'
 
