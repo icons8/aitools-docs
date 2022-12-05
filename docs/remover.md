@@ -4,6 +4,11 @@ layout: default
 keywords:
 comments: false
 
+# Hero section
+title: What is Background Remover for?
+description:
+icon: 'lunacy'
+
 # Micro navigation
 micro_nav: false
 
@@ -13,9 +18,6 @@ micro_nav: false
 #         content: System requirements
 #         url: '/sysreq'
 ---
-
-## What is Background Remover for?
-
 Icons8 Background Remover is a tool that automatically removes background from your images using artificial intelligence. For example, it will be helpful when you want to:
 * create clean showcase photos of your product for your online store;
 * add a basic background color or a full backdrop to a photo to make it look more professional;
