@@ -19,10 +19,6 @@ micro_nav: false
 #         url: '/sysreq'
 ---
 
-<p align="center">
-  <img width="100" src="/public/logo.png">
-</p>
-
 ## What is Smart Upscaler for?
 
 Icons8 Smart Upscaler is an AI tool that automatically increases image resolution without losing quality. For example, it will be helpful when you want to:
