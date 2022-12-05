@@ -6,7 +6,6 @@ comments: false
 
 # Hero section
 title: What is Smart Upscaler for?
-description: What is Smart Upscaler for?
 icon: 'lunacy'
 
 # Micro navigation
