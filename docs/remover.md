@@ -40,7 +40,7 @@ Background Remover supports batch uploads through multiple selection. On Windows
 
 The tool also supports uploading images from clipboard, to do that just press <img align="center" height="50" src="/public/ctrlbut.png"> **+** <img align="center" height="47" src="/public/vkey.png"> while the tool is open.
 
-:information_source: Please keep in mind the file requirements: our tool accepts **.png** and **.jpg** up to **5 Mb**.
+Please keep in mind the file requirements: our tool accepts **.png** and **.jpg** up to **5 Mb**.
 
 ## Background Removal
 
