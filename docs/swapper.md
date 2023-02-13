@@ -69,6 +69,9 @@ You can delete any images uploaded to Background Remover, but they will be avail
 **Q:** I have uploaded images, but they've been stuck in the queue for several minutes. <br>
 **A:** We recommend waiting, but if you believe your images got lost in the queue, please contact our support.
 
+**Q:** Face Swapper detected a face, but the tool still gives me the "Couldn't find any faces" error. <br>
+**A:** This can happen when the face is partially obstructed by such objects as hands, glasses, masks etc or when the head is in the 3/4 position. Such images can be hard to process for AI, so we use cases like this to improve our neural network. Please send uncompressed files to support@icons8.com
+
 **Q:** Is there a limit for batch uploads? <br>
 **A:** There are no limits for batch uploads, but the more images you upload, the bigger the performance hit will be. For really large uploads, please consider getting an API subscription.
 
