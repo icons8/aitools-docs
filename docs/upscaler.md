@@ -75,11 +75,11 @@ You can delete any images uploaded to Smart Upscaler, but they will be available
 **Q:** I have uploaded images, but they've been stuck in the queue for several minutes. <br>
 **A:** Processing heavily depends on the number of images, their initial size and resolution, as well as server load. We recommend waiting, but if you believe your images got lost in the queue, please contact our support.
 
+**Q:** I am getting an error when trying to Upscale a particular image. <br>
+**A:** No AI algorithm is perfect, so if you have already tried clearing cache and cookies of your browser and it didn't help, that unfornutale means Upscaler can't process your image. We use each case like this to improve our neural network, please send uncompressed files to support@icons8.com.
+
 **Q:** Is there a limit for batch uploads? <br>
 **A:** There are no limits for batch uploads, but you should keep in mind that the more images you upload, the bigger the performance hit will be. For really large uploads, please consider getting an API subscription.
 
 **Q:** I bought a prepaid pack, but didn't receive my order. <br>
 **A:** If you didn't have an Icons8 account while buying the pack, the system will automatically create one with the billing email used during checkout and offer you to set up a password. If you missed that window,  you will have to request a password change for the account. If you still need help with your order, please contact our support team.
-
-
-
