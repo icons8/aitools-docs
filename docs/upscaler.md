@@ -53,7 +53,7 @@ After uploading an image to the Smart Upscaler, you will see several controls fo
 
 * Enlarge button will make your image twice as larger each time you use it (4x, 8x, 16x, etc.) until it reaches the maximum of **7680 x 5671**.
 * Hovering your mouse cursor over the picture will enable magnifying mode, letting you look at the details more closely and compare results.
-* Delete button at the top deletes the image from the dashboard, but you will be able to access it with a direct link within the next 60 days.
+* Delete button at the top deletes the image from the dashboard, but you will be able to access it with a direct link within the next 30 days.
 
 Controls for batch uploads are virtually the same, except you can both upscale and download the whole collection at once or do that with individual images within the batch.
 
@@ -65,7 +65,7 @@ Controls for batch uploads are virtually the same, except you can both upscale a
 
 We store uploaded images securely, and other users are not able to see what you upload. 
 
-You can delete any images uploaded to Smart Upscaler, but they will be available with a direct link for the next 60 days. After two months pass, the images get deleted permanently.
+You can delete any images uploaded to Smart Upscaler, but they will be available with a direct link for the next 30 days. After two months pass, the images get deleted permanently.
 
 ## FAQ and common cases
 
