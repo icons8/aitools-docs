@@ -72,7 +72,7 @@ Controls for batch uploads are virtually the same, the options above are availab
 
 We store uploaded images securely, and other users are not able to see what you upload. 
 
-You can delete any images uploaded to Background Remover, but they will be available with a direct link for the next 60 days. After two months pass, the images get deleted permanently.
+You can delete any images uploaded to Background Remover, but they will be available with a direct link for the next 30 days. After two months pass, the images get deleted permanently.
 
 ## FAQ and common cases
 
