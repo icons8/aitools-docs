@@ -22,4 +22,4 @@ page_nav:
 # **AI Tools**
 
 
-This page is dedicated to our AI tools: [Upscaler](/upscaler),  [Upscaler](/upscaler),  [Background Remover](/remover) and [Face Swapper](/swapper). Here you can find basic information on how to use these tools to enhance your images, remove their backgrounds, and change faces on your photos. 
+This page is dedicated to our AI tools: [Upscaler](/upscaler),  [Upscaler](/upscaler),  [Background Remover](/remover) and [Face Swapper](/swapper). Here you can find out how to use these tools to enhance your images, remove backgrounds, and change faces on photos.
